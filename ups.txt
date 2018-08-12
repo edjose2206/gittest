@@ -1,0 +1,2 @@
+This file let me know what happen if a delete a file by accident and
+ I want it back using the cloud
